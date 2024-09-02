@@ -1,4 +1,10 @@
 flask
 requests
-pandas
-prophet==1.0
+numpy==1.24.3
+pandas==1.5.3
+Cython==0.29.36
+cmdstanpy==1.1.0
+prophet==1.1.2
+matplotlib==3.7.1
+scikit-learn==1.2.2
+statsmodels==0.13.5
