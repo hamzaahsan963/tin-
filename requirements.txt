@@ -1,0 +1,4 @@
+flask
+requests
+pandas
+prophet==1.0
