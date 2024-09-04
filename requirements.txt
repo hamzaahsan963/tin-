@@ -1,11 +1,8 @@
-pystan
 Flask
 prophet
-pandas
-matplotlib
 requests
 numpy
 statsmodels
-Werkzeug
-gunicorn
-setuptools
+gunicorn==23.0.0
+Werkzeug==3.0.4
+
