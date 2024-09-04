@@ -1,4 +1,3 @@
-Cython
 pystan
 Flask
 prophet
@@ -7,6 +6,6 @@ matplotlib
 requests
 numpy
 statsmodels
-Werkzeug==3.0.4
-gunicorn==23.0.0
+Werkzeug
+gunicorn
 setuptools
