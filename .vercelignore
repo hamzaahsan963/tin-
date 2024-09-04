@@ -1,0 +1,39 @@
+# Ignore local configuration files
+.env
+config/
+
+# Ignore test files and directories
+tests/
+*.test.py
+__pycache__/
+
+# Ignore large datasets or unnecessary files
+data/
+*.csv
+*.json
+
+# Ignore IDE/editor configurations
+.vscode/
+.idea/
+
+# Ignore Python cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore build-related files that aren't needed for deployment
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Ignore static files that are not needed in deployment
+staticfiles/
+*.scss
+*.less
+
+# Ignore logs and temporary files
+logs/
+*.log
+tmp/
