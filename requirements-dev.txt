@@ -1,0 +1,4 @@
+# For development/testing only
+matplotlib
+pytest
+pylint
