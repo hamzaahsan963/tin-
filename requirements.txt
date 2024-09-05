@@ -1,8 +1,10 @@
-Flask
-prophet
-requests
-numpy
-statsmodels
 gunicorn==23.0.0
 Werkzeug==3.0.4
-
+Flask
+requests
+pandas
+matplotlib
+prophet
+statsmodels
+scikit-learn
+numpy
